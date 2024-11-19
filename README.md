@@ -4,7 +4,7 @@
 <header style="background-color:lightgreen">
 <b>
 <i>
-<p style="font-family:Arial Narrow;font-size:35px">Склад нашої сім'ї:<p>
+<p style="font-family:Arial Narrow;font-size:35px">Склад нашої сім'ї:</p>
 </b>
 </i>
 </header>
