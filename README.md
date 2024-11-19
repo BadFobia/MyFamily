@@ -5,8 +5,8 @@
 <b>
 <i>
 <p style="font-family:Arial Narrow;font-size:35px">Склад нашої сім'ї:</p>
-</b>
 </i>
+</b>
 </header>
 <h1 style="font-family:fantasy;text-align:center;color:darkblue;font-size:40px">Наша дружня сім'я<h1>
 <main style="font-family:Arial Narrow;color:">
